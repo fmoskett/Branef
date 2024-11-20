@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClienteCadastro.Application/1.0.0": {
+        "dependencies": {
+          "ClienteCadastro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ClienteCadastro.Application.dll": {}
+        }
+      },
+      "ClienteCadastro.Domain/1.0.0": {
+        "runtime": {
+          "ClienteCadastro.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClienteCadastro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClienteCadastro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

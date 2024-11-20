@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fontes\\apiClientesTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA43C59-0DDD-4016-96CB-818FD607BA7B}|ClienteCadastro.Presentation\\ClienteCadastro.Presentation.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.presentation\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA43C59-0DDD-4016-96CB-818FD607BA7B}|ClienteCadastro.Presentation\\ClienteCadastro.Presentation.csproj|solutionrelative:clientecadastro.presentation\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D57AD20-CC13-433E-BBAB-2AA2629F1E12}|ClienteCadastro.Application\\ClienteCadastro.Application.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.application\\clientecadastro.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D57AD20-CC13-433E-BBAB-2AA2629F1E12}|ClienteCadastro.Application\\ClienteCadastro.Application.csproj|solutionrelative:clientecadastro.application\\clientecadastro.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28B257E-F7F5-4036-B1A1-E4E28936FC59}|ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.domain\\clientecadastro.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D28B257E-F7F5-4036-B1A1-E4E28936FC59}|ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj|solutionrelative:clientecadastro.domain\\clientecadastro.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|solutionrelative:clientecadastro.infrastructure\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|solutionrelative:clientecadastro.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|d:\\fontes\\apiclientesteste\\clientecadastro.infrastructure\\clientecadastro.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67E38A29-1D63-4C42-9A9F-F420549CC265}|ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj|solutionrelative:clientecadastro.infrastructure\\clientecadastro.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Presentation\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ClienteCadastro.Presentation\\ClientesController.cs",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Presentation\\ClientesController.cs",
+              "RelativeToolTip": "ClienteCadastro.Presentation\\ClientesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:40:23.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteCadastro.Application",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Application\\ClienteCadastro.Application.csproj",
+              "RelativeDocumentMoniker": "ClienteCadastro.Application\\ClienteCadastro.Application.csproj",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Application\\ClienteCadastro.Application.csproj",
+              "RelativeToolTip": "ClienteCadastro.Application\\ClienteCadastro.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T00:38:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClienteCadastro.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ClienteCadastro.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:31:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClienteCadastro.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ClienteCadastro.Infrastructure\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:29:51.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteCadastro.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj",
+              "RelativeToolTip": "ClienteCadastro.Infrastructure\\ClienteCadastro.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T00:28:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteCadastro.Domain.csproj",
+              "DocumentMoniker": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj",
+              "RelativeDocumentMoniker": "ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj",
+              "ToolTip": "D:\\Fontes\\apiClientesTeste\\ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj",
+              "RelativeToolTip": "ClienteCadastro.Domain\\ClienteCadastro.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T00:25:39.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

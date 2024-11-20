@@ -1,0 +1,15 @@
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\bin\Debug\net8.0\ClienteCadastro.Application.deps.json
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\bin\Debug\net8.0\ClienteCadastro.Application.dll
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\bin\Debug\net8.0\ClienteCadastro.Application.pdb
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\bin\Debug\net8.0\ClienteCadastro.Domain.dll
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\bin\Debug\net8.0\ClienteCadastro.Domain.pdb
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.csproj.AssemblyReference.cache
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.AssemblyInfoInputs.cache
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.AssemblyInfo.cs
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.csproj.CoreCompileInputs.cache
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteC.B06B46E5.Up2Date
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.dll
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\refint\ClienteCadastro.Application.dll
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ClienteCadastro.Application.pdb
+D:\Fontes\apiClientesTeste\ClienteCadastro.Application\obj\Debug\net8.0\ref\ClienteCadastro.Application.dll
